@@ -1,0 +1,80 @@
+----------------------------------------------------------------
+Sun May 21 05:58:09 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-3c75-17b0-000003a6bf08 
+on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\364af2cd-d205-4027-8f3c-955a5aace0aa with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/celiwe%20khoza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 21 06:05:59 CAT 2023:
+Shutting down instance a816c00e-0188-3c75-17b0-000003a6bf08 on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\364af2cd-d205-4027-8f3c-955a5aace0aa with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun May 21 06:06:04 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1d6e40d2-0188-3c75-17b0-000003a6bf08 
+on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\c157933b-e8d3-4133-a3de-2795dd0f2eef with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/celiwe%20khoza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 21 06:07:34 CAT 2023:
+Shutting down instance 1d6e40d2-0188-3c75-17b0-000003a6bf08 on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\c157933b-e8d3-4133-a3de-2795dd0f2eef with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun May 21 06:07:39 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a770417f-0188-3c75-17b0-000003a6bf08 
+on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\6f4de04a-5423-4dc3-a456-ef7647ba954f with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/celiwe%20khoza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 21 06:08:31 CAT 2023:
+Shutting down instance a770417f-0188-3c75-17b0-000003a6bf08 on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\6f4de04a-5423-4dc3-a456-ef7647ba954f with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun May 21 06:08:35 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2eac822c-0188-3c75-17b0-000003a6bf08 
+on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\b2a44dd5-85d6-492b-af6d-b437658bbed2 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/celiwe%20khoza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 21 06:13:48 CAT 2023:
+Shutting down instance 2eac822c-0188-3c75-17b0-000003a6bf08 on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\b2a44dd5-85d6-492b-af6d-b437658bbed2 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun May 21 06:13:53 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 032302d9-0188-3c75-17b0-000003a6bf08 
+on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\49ade08b-3254-44a4-84d8-86d44547081b with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/celiwe%20khoza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 21 06:13:58 CAT 2023:
+Shutting down instance 032302d9-0188-3c75-17b0-000003a6bf08 on database directory memory:C:\Users\celiwe khoza\Documents\sbongile's work\payuAssessment\payuAssessment\49ade08b-3254-44a4-84d8-86d44547081b with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
